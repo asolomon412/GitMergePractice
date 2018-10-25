@@ -5,7 +5,7 @@ public class MainApp {
 		
 		System.out.println("My name is Antonella!");
 		System.out.println("Hello World!");
-		System.out.println("Goodbye, cruel world!");
+		System.out.println("Goodbye, cruel world! Woe is me.");
 		System.out.println("Seriously, we're done.");
 	}
 
